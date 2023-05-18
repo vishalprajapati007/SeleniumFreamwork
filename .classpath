@@ -23,5 +23,23 @@
 			<attribute name="maven.pomderived" value="true"/>
 		</attributes>
 	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/dell7/.m2/repository/dev/failsafe/failsafe/3.3.0/failsafe-3.3.0.jar" sourcepath="C:/Users/dell7/.m2/repository/dev/failsafe/failsafe/3.3.0/failsafe-3.3.0-sources.jar">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="maven.groupId" value="dev.failsafe"/>
+			<attribute name="maven.artifactId" value="failsafe"/>
+			<attribute name="maven.version" value="3.3.0"/>
+			<attribute name="maven.scope" value="compile"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/dell7/.m2/repository/dev/failsafe/failsafe/3.3.1/failsafe-3.3.1.jar" sourcepath="C:/Users/dell7/.m2/repository/dev/failsafe/failsafe/3.3.1/failsafe-3.3.1-sources.jar">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="maven.groupId" value="dev.failsafe"/>
+			<attribute name="maven.artifactId" value="failsafe"/>
+			<attribute name="maven.version" value="3.3.1"/>
+			<attribute name="maven.scope" value="compile"/>
+		</attributes>
+	</classpathentry>
 	<classpathentry kind="output" path="target/classes"/>
 </classpath>
